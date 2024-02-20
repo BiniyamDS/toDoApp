@@ -1,2 +1,3 @@
 # TO-DO APP
-A very simple to do app
+A very simple todo app
+hello world
